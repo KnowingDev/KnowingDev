@@ -1,2 +1,1 @@
-## Welcome to KnowingDev's Portfolio 
-This github repository was made for showing all of my **Work and Projects** I have made. Active or not active, all of my projects are shown here.
+Uhh... hello? What are you doing here? Oh wait a minute its my **portfolio** page... you cam here to learn more about me and my projects? Well I guess you arrived at the right place. Welcome to my **Portfolio** where I showcase projects I *personally* worked on or just my very own projects. And hey while you are here, why not learn more about me and my personal life.
